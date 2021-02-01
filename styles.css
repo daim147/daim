@@ -1,0 +1,144 @@
+*{margin:0;
+padding: 0;}
+body{
+  font-family: 'Montserrat', sans-serif;
+  background:linear-gradient(#e7e7de,#ffd56b) ;
+}
+/* Navbar */
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+  font-weight: bolder;
+  
+}
+.nav-item{
+  padding: 0.8rem;
+}
+
+.lii{
+  background-color:#ff7b54 ;
+}
+
+.navbar-nav{
+  margin-left: auto;
+}
+.fa-user-tie{
+  margin-right: 0.5rem;
+  margin-left: 0.4rem;
+}
+.ico{
+  padding: 0 0.4rem 0 0.4rem;
+}
+
+/* Header */
+
+.head{
+  background-color:#f0ba87;
+  padding: 2rem;
+ 
+}
+#dp{
+  width: 90%;
+}
+
+.myinfo{
+  padding:4rem;
+}
+.myinfo h1{
+  color: rgb(255, 255, 255);
+  font-size: 3rem;
+  margin-bottom: 2rem;
+}
+.myinfo p{
+  line-height: 2.2rem;
+  font-size: 1.4rem;
+  color: rgb(65, 62, 62);
+}
+span{
+  font-weight: bolder;
+  font-size: 1.7rem;
+}
+.aw{
+  margin: 0.2rem;
+}
+.button{
+
+  padding: 0.4rem;
+  margin: 2rem 0.8rem 2rem 0;
+}
+.cloud{
+  position: absolute;
+  width: 27%;
+}
+.top{
+  top: 7%;
+  right: 1%;
+}
+.bottom{
+  top: 84%;
+  right: 38%;
+}
+/* Qualificaton */
+
+#Qualification{
+  padding: 6rem 6rem 6rem 8rem;
+}
+
+#Qualification h2{
+  text-align: center;
+  font-size: 3rem;
+  color: rgb(70, 88, 37);
+  font-weight: bolder;
+}
+.inst{
+  color: rgb(194, 71, 71);
+  font-weight: bold;
+  font-size:2.2rem ;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+section{
+margin: 8rem 4rem 4rem 2rem ;
+
+
+}
+section p{
+  margin-top: 1rem;
+  font-size: 1.3rem;
+  text-align: left;
+  line-height: 2rem;
+}
+.button1{
+  margin-top: 1.3rem;
+  font-size: 1.3rem;
+}
+.edu{
+  padding: 0 0.4rem 0 0.4rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* hr {
+  width: 50%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  border-color: goldenrod;
+} */
